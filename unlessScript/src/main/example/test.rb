@@ -1,4 +1,5 @@
 class Test
+#これを通せるようにする
   method main
     a=1
     b=2
