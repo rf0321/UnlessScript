@@ -1,0 +1,8 @@
+class Test
+  method main
+    a=1
+    b=2
+    puts "Hello World"
+  end
+endC
+
