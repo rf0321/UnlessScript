@@ -1,7 +1,4 @@
 package script.lex;
-import com.sun.corba.se.impl.oa.toa.TOA;
-import com.sun.org.apache.bcel.internal.generic.FLOAD;
-
 import java.util.Map;
 import java.util.TreeMap;
 
